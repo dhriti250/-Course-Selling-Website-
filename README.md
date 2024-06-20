@@ -68,8 +68,4 @@ The backend of the course selling website supports two types of users: admins an
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
